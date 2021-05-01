@@ -1,13 +1,13 @@
 A web application Locale with the following features:-
 ## A commercial platform for the customers to explore local shop’s goods :
-1. Searched items will be displayed based on the current city or live location. 
-2. Customer will explore the item, if the same item is available in more than one shop, she can choose shop as her convenience (lower price, less distance).
-3. Inquire about the product directly with the shopkeeper, (can message in the chat box or call or request video call to display the product).
-4.Can reserve the item for a limited time period(say 24 hrs) before making final decision to buy it.
-5. Duration and directions will be provided to visit the shop.
-6. If satisfied with the item, can choose between home delivery or visit store to buy.
-7. Make payment online, card or cash.
-8. Chatbot for FAQs.
+       1. Searched items will be displayed based on the current city or live location. 
+       2. Customer will explore the item, if the same item is available in more than one shop, she can choose shop as her convenience (lower price, less distance).
+       3. Inquire about the product directly with the shopkeeper, (can message in the chat box or call or request video call to display the product).
+       4. Can reserve the item for a limited time period(say 24 hrs) before making final decision to buy it.
+       5. Duration and directions will be provided to visit the shop.
+       6. If satisfied with the item, can choose between home delivery or visit store to buy.
+       7. Make payment online, card or cash.
+       8. Chatbot for FAQs.
 
 ## Platform for the shop owners to showcase their inventory online.
 	1. Register their shop.
@@ -19,9 +19,9 @@ A web application Locale with the following features:-
 ## A portal dedicated to connect the registered bike drivers, local taxi drivers, auto-rickshaw and cab drivers within the minimum distance to the closest shop and the customer.
         1. Register themselves and their vehicles.
         2. Can give delivery service as per their availability.
-3. Product to delivered (which is not yet assigned to any of the delivery person) will be       displayed based on their location.
-4. Select the order to deliver.
-5. Directions for pickup destination and delivery destination to be provided.
+        3. Product to delivered (which is not yet assigned to any of the delivery person) will be       displayed based on their location.
+        4. Select the order to deliver.
+        5. Directions for pickup destination and delivery destination to be provided.
         6. Live tracking of the delivery to be provided to both customer and shop owner.
         7. Receive payment from customer on successful delivery.
 ![image](https://user-images.githubusercontent.com/47984303/116788665-8535aa80-aac8-11eb-9f8a-2e842ac60f82.png)
