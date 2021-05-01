@@ -25,8 +25,7 @@ A web application Locale with the following features:-
         6. Live tracking of the delivery to be provided to both customer and shop owner.
         7. Receive payment from customer on successful delivery.
 ![image](https://user-images.githubusercontent.com/47984303/116788665-8535aa80-aac8-11eb-9f8a-2e842ac60f82.png)
-
-![image](https://user-images.githubusercontent.com/47984303/116788691-b31aef00-aac8-11eb-9477-b0e79beb7653.png)
+![image](https://user-images.githubusercontent.com/47984303/116788831-713e7880-aac9-11eb-8642-de4e377146f9.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
