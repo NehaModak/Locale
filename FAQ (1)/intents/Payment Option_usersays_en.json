@@ -1,0 +1,93 @@
+[
+  {
+    "id": "f205a726-56bf-47c6-9394-da0d96d2b872",
+    "data": [
+      {
+        "text": "payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "863e741b-0248-4028-8311-b3d4b5b60224",
+    "data": [
+      {
+        "text": "bill payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32b052ab-ffcb-4459-bc9a-73e91107e4e0",
+    "data": [
+      {
+        "text": "which medium i can use to pay the bills?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a88f4120-8337-4f15-89c6-ac4a7e5e886f",
+    "data": [
+      {
+        "text": "how to proceed payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd82322e-1555-4041-82b1-bb0ff9b3e98c",
+    "data": [
+      {
+        "text": "pay using what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1a0b883-ca71-4cd0-aa6f-d9222264c4aa",
+    "data": [
+      {
+        "text": "payment option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7401f3b-7d3c-4f5b-a1ed-fc34152a5faf",
+    "data": [
+      {
+        "text": "how can pay for the item bought",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d9a7446f-1ccb-4bd6-a1f8-0d62a332b6ab",
+    "data": [
+      {
+        "text": "reserve order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f3808a5-035b-4da1-a3d9-ed75e58553c8",
+    "data": [
+      {
+        "text": "order reserve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1cdb324-adc5-4e13-bf6e-e4044202d86b",
+    "data": [
+      {
+        "text": "time period to reserve order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebb8644c-c7ea-45fd-b8b0-b743d8d7c26c",
+    "data": [
+      {
+        "text": "how to reserve order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5251afd6-9ceb-4d3f-a369-4d0f972088fb",
+    "data": [
+      {
+        "text": "what is reserve order policy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdde39f5-aea0-497b-8220-545f3f5da312",
+    "data": [
+      {
+        "text": "Till how much time can i reserve my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40559b1d-2376-42d5-b95a-bca35c351faf",
+    "data": [
+      {
+        "text": "How can i reserve my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

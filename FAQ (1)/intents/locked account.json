@@ -1,0 +1,35 @@
+{
+  "id": "44745dde-49ff-4704-8666-df93556e4b46",
+  "name": "locked account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Locale locks accounts for a specified time period or permanently in case there are too many failed login attempts to your account. This is for the security of your account. You should be able to gain access back to your account by resetting your password or call customer care for further help."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

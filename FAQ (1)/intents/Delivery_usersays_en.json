@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1a37ab43-7d4f-4128-8448-4b272ac8c05d",
+    "data": [
+      {
+        "text": "is home delivery feasible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2260276-d900-4619-86f1-13bf8cdb37cd",
+    "data": [
+      {
+        "text": "home delivery is viable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db09f4c-2f1a-40f2-ae9b-c052be3af247",
+    "data": [
+      {
+        "text": "can the item be delivered at home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b1a4f52-331a-498f-adfd-41e7b37fbb35",
+    "data": [
+      {
+        "text": "cash on delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcfb85af-8b9d-4941-89ad-84fa584c1bc4",
+    "data": [
+      {
+        "text": "delivered item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd3e1d81-42b0-4cea-a78b-cbfc5df504f3",
+    "data": [
+      {
+        "text": "delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22cd5d66-4c64-44cc-9503-95e3bdf38c7a",
+    "data": [
+      {
+        "text": "how can i pick my delivered item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "634ef257-5f7c-4357-bc2a-02bdd6c078b9",
+    "data": [
+      {
+        "text": "is delivery online or offline?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d2a3688-fa2f-45e7-abb8-a3ea5e0d2909",
+    "data": [
+      {
+        "text": "where to choose delivery from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "367a0adf-6dea-4ded-ab86-34644e3ec2fa",
+    "data": [
+      {
+        "text": "can the item be delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

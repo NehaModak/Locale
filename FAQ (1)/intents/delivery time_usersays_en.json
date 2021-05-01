@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6545247f-56c4-4c7b-851b-7aebb7ed1fe4",
+    "data": [
+      {
+        "text": "how much time will it take to deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8114b95-921a-4027-bc26-47fdc49ed261",
+    "data": [
+      {
+        "text": "delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc78f076-ed12-4f5d-8642-96941d39a07e",
+    "data": [
+      {
+        "text": "item delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b97f6f16-6f5b-426d-a586-07ff2e122e6e",
+    "data": [
+      {
+        "text": "product delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deb6afb1-c3d8-49d7-9df4-30b38105d898",
+    "data": [
+      {
+        "text": "time to deliver product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4d78329-916f-4663-93e2-8effb62bfbd0",
+    "data": [
+      {
+        "text": "time to deliver item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

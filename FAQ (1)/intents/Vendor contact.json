@@ -1,0 +1,35 @@
+{
+  "id": "6f736b2a-e568-4478-9188-5a8e7a357589",
+  "name": "Vendor contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To contact the shopkeeper or get more information on the product you can click on the video-call icon, phone call icon or chat icon. Via video you can see the product. Via call you can talk to the shopowner. And via text you can get the responses from the shopkeeper."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

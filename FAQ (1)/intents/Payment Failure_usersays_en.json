@@ -1,0 +1,106 @@
+[
+  {
+    "id": "e4dc6aff-f71c-43ac-85bf-46ed613ef412",
+    "data": [
+      {
+        "text": "fail transaction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "346238da-16f8-4392-9078-68468ccd27fe",
+    "data": [
+      {
+        "text": "failed transaction what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e587115-04e2-4b78-baa4-756fe74b4e34",
+    "data": [
+      {
+        "text": "transaction failure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0078d0cc-2c18-4976-a483-af94c9187183",
+    "data": [
+      {
+        "text": "what will happen if my payment fails",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1260f75-6aa2-4bf2-a446-3b2d7d2b3c53",
+    "data": [
+      {
+        "text": "failed payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38fe330c-754b-46c6-a082-530efd7c2232",
+    "data": [
+      {
+        "text": "payment fails",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e8d160e-c615-41b2-bfbb-526fed540507",
+    "data": [
+      {
+        "text": "if payment fails what happens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e263f50-2823-47ea-bb07-6e130a43b3f1",
+    "data": [
+      {
+        "text": "payment failure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

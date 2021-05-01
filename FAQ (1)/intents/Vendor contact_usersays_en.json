@@ -1,0 +1,106 @@
+[
+  {
+    "id": "584c6a3b-9963-4e6b-8ee8-f2e07724dc9d",
+    "data": [
+      {
+        "text": "information on product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dae19741-f460-46be-90f4-141d3167e36f",
+    "data": [
+      {
+        "text": "shopkeeper contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d01b490-cb95-4007-863f-eac43bb11e6b",
+    "data": [
+      {
+        "text": "more information on product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f458cc9-4254-41e9-b21d-3c5d7610ef86",
+    "data": [
+      {
+        "text": "viewing item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1f8ca2a-e405-4a70-a91c-c398f2e6e9c0",
+    "data": [
+      {
+        "text": "get more product information how",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b03f5250-6fa5-4ef2-9bf3-bd676e3a2d46",
+    "data": [
+      {
+        "text": "can i view the item in real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01611633-0e37-42d8-9924-c9ed667de207",
+    "data": [
+      {
+        "text": "contact the shopkeeper?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "256c88c1-2164-4915-9e37-aff9f91191ae",
+    "data": [
+      {
+        "text": "how can i contact the vendor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

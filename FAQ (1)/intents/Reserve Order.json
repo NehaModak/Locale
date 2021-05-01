@@ -1,0 +1,35 @@
+{
+  "id": "307ccdb4-9667-4854-b129-29915990f3e9",
+  "name": "Reserve Order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can reserve your item in 1 step by Clicking on Reserve at the bottom of Selected Item. An item can be reserved for at most 24 hours. After that it will get automatically deleted from My Orders cart."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

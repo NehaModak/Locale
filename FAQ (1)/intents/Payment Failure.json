@@ -1,0 +1,35 @@
+{
+  "id": "ee87a0cf-b16e-4672-89b5-8c721cb9735e",
+  "name": "Payment Failure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please retry making the payment after ensuring that the information entered is accurate, including all account details, billing addresses and passwords. If your payment still fails, you can use the Cash on Delivery (COD) payment option, if available on the payment page to place your order. If your payment is debited from your account after a payment failure, it will be credited back within 7-10 days, after we receive a confirmation from the bank."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ec70b92d-793a-4815-9bd8-ff1157c5af42",
+    "data": [
+      {
+        "text": "return",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f21b5bf7-2c24-40d9-80e7-b23518bd1577",
+    "data": [
+      {
+        "text": "return policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "915c3647-e732-4e0f-929c-5ef44f9dbcee",
+    "data": [
+      {
+        "text": "What should be done to return the purchased item?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "716aacbb-4aab-4743-8a8a-36af2dd5b227",
+    "data": [
+      {
+        "text": "How can I return the item?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e0390b8-ce16-4d49-a37d-e1025da44f7d",
+    "data": [
+      {
+        "text": "What is the return policy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

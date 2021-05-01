@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e7b63b4b-2398-48df-bdff-24e91c15bec5",
+    "data": [
+      {
+        "text": "steps to create an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ac43b62-f60a-42da-bedf-920477ef2d50",
+    "data": [
+      {
+        "text": "create an account steps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c90de45c-61d0-4682-9be3-eb750eaf0ab3",
+    "data": [
+      {
+        "text": "account creation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c1acdd0-654a-4ccc-87d5-9a041f381a99",
+    "data": [
+      {
+        "text": "how to create account on locale?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

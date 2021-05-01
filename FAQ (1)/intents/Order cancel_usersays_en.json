@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b509ce25-93d7-4bc5-959b-d3ba3149c0bb",
+    "data": [
+      {
+        "text": "cancel order how",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a0d510-1ba7-4d2c-ace5-e718d2098c09",
+    "data": [
+      {
+        "text": "how should i cancel order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb339179-fa24-42a1-ab14-2841d3635c7b",
+    "data": [
+      {
+        "text": "order cancel procedure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8f34e29-d414-4be6-998f-41c32a2cd98c",
+    "data": [
+      {
+        "text": "How can I cancel my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
